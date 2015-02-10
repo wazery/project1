@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 first
 bla bla
 <<<<<<< HEAD
@@ -6,4 +7,11 @@ my touch :p
 bla bla bla
 sahar fathy
 sahar :* 
+<<<<<<< HEAD
 >>>>>>> 655ab7cc531c50ff5adb81e3e082d52f8cbd04b0
+=======
+=======
+jkl/jkljlkjlkjkfirst
+unstable changes
+>>>>>>> 516ea9d155a024465162cb7eb349eb0b666b0eca
+>>>>>>> 658b68e70772e464086048030f8be59116787e70
